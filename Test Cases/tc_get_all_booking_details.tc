@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_get_all_booking_details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>822030d4-7e30-4c75-a81d-3c2f293708eb</testCaseGuid>
+</TestCaseEntity>

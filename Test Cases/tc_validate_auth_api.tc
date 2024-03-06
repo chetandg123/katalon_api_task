@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_validate_auth_api</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>287d8729-91c2-4e83-94f6-4dc2e7dd5402</testCaseGuid>
+</TestCaseEntity>
